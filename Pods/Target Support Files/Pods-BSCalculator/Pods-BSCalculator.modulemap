@@ -1,0 +1,6 @@
+framework module Pods_BSCalculator {
+  umbrella header "Pods-BSCalculator-umbrella.h"
+
+  export *
+  module * { export * }
+}
